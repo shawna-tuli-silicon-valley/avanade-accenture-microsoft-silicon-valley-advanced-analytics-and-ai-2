@@ -24,7 +24,7 @@ I am a Senior Consultant in Advanced Analytics at Avanade in Silicon Valley. I a
 
 ∙ Shawna Tuli Google Certificate in Capstone: Applying Project Management in the Real World
 
-∙ Shawna Tuli Stanford University Machine Learning
+∙ [Shawna Tuli Stanford University Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 _________________________________________________________________________________________________________________________________________________________
 
 “Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Technical Program Manager)
