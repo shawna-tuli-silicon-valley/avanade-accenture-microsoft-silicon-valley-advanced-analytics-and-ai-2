@@ -25,6 +25,8 @@ I am a Sr. Consultant in Advanced Analytics at Avanade in Silicon Valley. I am l
 ∙ [Shawna Tuli Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 _________________________________________________________________________________________________________________________________________________________
 
+"I have the pleasure of working with Shawna in the UCI x Accenture Engagement and Recruiting team and love the energy that she brings to the team! She is a capable leader and is dedicated to her role. Shawna is patient and thoughtful and does a fantastic job driving a project from beginning to end with great success. I would highly recommend working with Shawna if you ever have the chance." - Ella Liang (Accenture San Francisco Consulting Development Analyst) 
+
 “Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Technical Program Manager)
 
 ![203598188_1121816651643809_6098019265410920860_n](https://user-images.githubusercontent.com/19508013/132880888-f6fcf3fd-0a60-4a29-a69f-5ba1dc354613.jpeg)
