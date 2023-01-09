@@ -22,9 +22,9 @@ I am a Sr. Consultant in Advanced Analytics at Avanade in Silicon Valley. I am l
 
 ∙ [Shawna Tuli Google Certificate in Agile Project Management](https://www.coursera.org/account/accomplishments/verify/DPB6VLBUUKLE)
 
-∙ [Shawna Tuli Google Certificate in Capstone: Applying Project Management in the Real World]
+∙ Shawna Tuli Google Certificate in Capstone: Applying Project Management in the Real World
 
-∙ [Shawna Tuli Google Certificate in Google Project Management: Professional Certificate]
+∙ Shawna Tuli Google Certificate in Google Project Management: Professional Certificate
 
 ∙ [Shawna Tuli Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 _________________________________________________________________________________________________________________________________________________________
