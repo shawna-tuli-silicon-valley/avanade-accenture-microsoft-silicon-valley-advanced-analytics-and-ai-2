@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 Starting something new from scratch is never easy, but Shawna made working together painless. She was always the first to lend a helping hand to whoever needed it and was always receptive to feedback from the team. 
 
-If I could work with Shawna in every single one of my engagements, I would (and it would be good advice for you too)." - Jeff Lu (Accenture Los Angeles Strategy & Consulting Consultant) 
+If I could work with Shawna in every single one of my engagements, I would (and it would be good advice for you too)." - Jeff Lu (Accenture Los Angeles Management Consulting Consultant) 
 
 "I worked with Shawna directly on multiple initiatives such as increasing UCI recruitment efforts at Accenture as well as the submission of our BMJ Open Diabetes Research & Care article. Throughout all of my experiences, Shawna has always been a a pleasure to work with. She stays organized, manages responsibilities beautifully, and communicates effectively. Highly recommend working with Shawna if given the opportunity!" - Jeffrey Vu (Accenture Los Angeles Senior Analyst)
 
