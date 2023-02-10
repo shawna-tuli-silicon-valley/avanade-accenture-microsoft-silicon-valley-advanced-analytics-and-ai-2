@@ -8,6 +8,8 @@
 
 I am a Sr. Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leading, strategizing, analyzing, and predicting via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
+My clients are Google and The NPD Group. 
+
 ∙ [Shawna Tuli 2021 Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
 ∙ [Shawna Tuli 2022 UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
