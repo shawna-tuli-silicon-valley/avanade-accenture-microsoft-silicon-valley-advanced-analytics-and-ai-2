@@ -43,6 +43,8 @@ If I could work with Shawna in every single one of my engagements, I would (and 
 
 “Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Technical Program Manager)
 
+<img width="694" alt="219781413-c23f751c-f885-4954-80bd-120fed922953" src="https://user-images.githubusercontent.com/19508013/221004450-c544c2ba-51ce-470a-992b-3c92e18ce49b.png">
+
 ![promotion](https://user-images.githubusercontent.com/19508013/216798868-f7024b0c-34c2-486f-bf67-60978b3b3f40.jpeg)
 
 ![132880888-f6fcf3fd-0a60-4a29-a69f-5ba1dc354613](https://user-images.githubusercontent.com/19508013/216799166-3b578a73-6f4f-48d4-8d2b-7d061daf4cff.jpg)
