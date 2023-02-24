@@ -10,8 +10,6 @@ I am a Sr. Consultant in Advanced Analytics at Avanade in Silicon Valley. I am l
 
 My clients are Google and The NPD Group. 
 
-∙ [Shawna Tuli 2021 Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
-
 ∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
 ∙ [Shawna Tuli 2021 Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
