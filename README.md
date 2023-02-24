@@ -12,25 +12,27 @@ My clients are Google and The NPD Group.
 
 ∙ [Shawna Tuli 2021 Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
-∙ [Shawna Tuli 2022 UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
-∙ [Shawna Tuli 2022 Google Certificate in Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/2ELPWHCAP9FY)
+∙ [Shawna Tuli 2021 Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
-∙ [Shawna Tuli 2022 Google Certificate in Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/verify/XAQU6CTVCW9C)
-
-∙ [Shawna Tuli 2022 Google Certificate in Project Planning: Putting It All Together](https://www.coursera.org/account/accomplishments/verify/9AYFHD7Q7CVX)
-
-∙ [Shawna Tuli 2022 Google Certificate in Project Execution: Running the Project](https://www.coursera.org/account/accomplishments/verify/EBRL6GMXYDCF)
-
-∙ [Shawna Tuli 2022 Google Certificate in Agile Project Management](https://www.coursera.org/account/accomplishments/verify/DPB6VLBUUKLE)
-
-∙ Shawna Tuli 2022 Google Certificate in Capstone: Applying Project Management in the Real World
+∙ [Shawna Tuli 2020 University of California, Irvine Bachelor of Science in Data Science](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
 
 ∙ Shawna Tuli 2022 Google Certificate in Google Project Management: Professional Certificate
 
-∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
+∙ Shawna Tuli 2022 Google Certificate in Capstone: Applying Project Management in the Real World
 
-∙ [Shawna Tuli 2020 University of California, Irvine Bachelor of Science in Data Science](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
+∙ [Shawna Tuli 2022 Google Certificate in Agile Project Management](https://www.coursera.org/account/accomplishments/verify/DPB6VLBUUKLE)
+
+∙ [Shawna Tuli 2022 Google Certificate in Project Execution: Running the Project](https://www.coursera.org/account/accomplishments/verify/EBRL6GMXYDCF)
+
+∙ [Shawna Tuli 2022 Google Certificate in Project Planning: Putting It All Together](https://www.coursera.org/account/accomplishments/verify/9AYFHD7Q7CVX)
+
+∙ [Shawna Tuli 2022 Google Certificate in Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/verify/XAQU6CTVCW9C)
+
+∙ [Shawna Tuli 2022 Google Certificate in Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/2ELPWHCAP9FY)
+
+∙ [Shawna Tuli 2022 UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 _________________________________________________________________________________________________________________________________________________________
 
 "I had the pleasure of working with Shawna to stand up our Accenture engagements at our alma mater - the University of California, Irvine. I was highly impressed by her strong work ethic, executive presence, and ability to drive her initiatives end-to-end. She mentored multiple UCI students through the Capstone course, where I had the honor of seeing the final product of their work. Needless to say, the outcome of their work was nothing short of outstanding.
