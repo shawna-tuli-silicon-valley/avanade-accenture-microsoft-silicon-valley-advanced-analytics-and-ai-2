@@ -8,7 +8,7 @@
 
 I am a Sr. Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leading, strategizing, analyzing, and predicting via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-My clients are Google and The NPD Group. 
+My clients are Avanade, The NPD Group, and Google Play Partnerships. 
 
 ∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
@@ -29,6 +29,12 @@ My clients are Google and The NPD Group.
 ∙ [Shawna Tuli 2022 Google Certificate in Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/verify/XAQU6CTVCW9C)
 
 ∙ [Shawna Tuli 2022 Google Certificate in Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/2ELPWHCAP9FY)
+
+∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft 365 Certified: Fundamentals
+
+∙ Shawna Tuli 2021 Microsoft Certificate in Microsoft Certified: Azure Fundamentals
+
+∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Power Platform Fundamentals
 
 ∙ [Shawna Tuli 2022 University of California, Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 _________________________________________________________________________________________________________________________________________________________
