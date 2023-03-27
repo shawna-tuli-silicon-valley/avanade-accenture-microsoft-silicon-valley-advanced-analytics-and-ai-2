@@ -32,7 +32,7 @@ My clients are Avanade, The NPD Group, and Google Play Partnerships.
 
 ∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft 365 Certified: Fundamentals
 
-∙ Shawna Tuli 2021 Microsoft Certificate in Microsoft Certified: Azure Fundamentals
+∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Azure Fundamentals
 
 ∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Power Platform Fundamentals
 
