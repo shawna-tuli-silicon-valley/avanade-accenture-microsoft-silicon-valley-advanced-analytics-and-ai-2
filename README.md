@@ -8,7 +8,7 @@
 
 I am a Sr. Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leading, strategizing, analyzing, and predicting via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-My clients are Avanade, The NPD Group, and Google Play Partnerships. 
+My clients are Google Play Partnerships, Avanade, and The NPD Group. 
 
 ∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
