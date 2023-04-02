@@ -30,15 +30,15 @@ My clients are Google Play Partnerships, Avanade, and The NPD Group.
 
 ∙ [Shawna Tuli 2022 Google Certificate in Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/2ELPWHCAP9FY)
 
+∙ [Shawna Tuli 2022 University of California, Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+
+• [Shawna Tuli 2022 Wharton Certificate in Introduction to Marketing](https://coursera.org/share/3ec7fa70ecda90ca7a86f6e7e1e50a67)
+
 ∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft 365 Certified: Fundamentals
 
 ∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Azure Fundamentals
 
 ∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Power Platform Fundamentals
-
-∙ [Shawna Tuli 2022 University of California, Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
-• [Shawna Tuli 2022 Wharton Certificate in Introduction to Marketing](https://coursera.org/share/3ec7fa70ecda90ca7a86f6e7e1e50a67)
 _________________________________________________________________________________________________________________________________________________________
 "Everyone talks about "culture add" but it is often the first thing that gets sacrificed when looking for the right hire. Shawna is a rare "culture add" that has brought a deeply analytical mind and love for data to Avanade but also a sense of community, inclusion, and support for the kind of workplace we've strived to build. I would recommend you consider her for any of your teams you're not just trying to make better but make great." - Harry Holstrom (Avanade West Region Territory Lead for Communications, Media and Technology)
 
