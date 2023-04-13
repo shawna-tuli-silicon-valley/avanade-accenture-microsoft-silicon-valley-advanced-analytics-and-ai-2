@@ -7,7 +7,7 @@
 ![microsoft](https://user-images.githubusercontent.com/19508013/192884578-764b1a2a-84a7-47d0-bffe-94548a6d7630.jpg)
 
 I am a Manager in Advanced Analytics at Avanade in Silicon Valley. I am leading engineering & business teams comprised of data scientists, sofware engineers, & management consultants, strategizing, analyzing, & predicting via advanced analytics & AI at Fortune 100 tech companies in Silicon Valley. 
-I am also remotely leading 4 UCI Data Science seniors in forecasting energy usage per sector & per source with AI in California. Additionally, I am on a team of 3 UCI alumni from Accenture Chief Data & Analytics Officer Manish Dasaur to build this relationship. Avanade is the Accenture Microsoft Business Group with parents Accenture & Microsoft.
+I am also remotely leading 4 UCI Data Science seniors in forecasting energy usage per sector & per source with AI in California. Additionally, I am remtotely on a team of 3 UCI alumni from Accenture Chief Data & Analytics Officer Manish Dasaur to build this relationship. Avanade is the Accenture Microsoft Business Group with parents Accenture & Microsoft.
 
 My clients are Google Play Partnerships, Avanade, & The NPD Group. 
 
