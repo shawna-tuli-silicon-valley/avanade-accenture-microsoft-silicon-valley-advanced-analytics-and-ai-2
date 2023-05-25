@@ -40,6 +40,22 @@ My clients are Google, Avanade, and The NPD Group.
 ∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Azure Fundamentals
 
 ∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Power Platform Fundamentals
+
+• Shawna Tuli 2023 Google Certificate in Foundations: Data, Data, Everywhere
+
+• Shawna Tuli 2023 Google Certificate in Ask Questions to Make Data-Driven Decisions
+
+• Shawna Tuli 2023 Google Certificate in Prepare Data For Exploration
+
+• Shawna Tuli 2023 Google Certificate in Process Data from Dirty to Clean
+
+• Shawna Tuli 2023 Google Certificate in Analyze Data to Answer Questions
+
+• Shawna Tuli 2023 Google Certificate in Share Data Through the Art of Visualization
+
+• Shawna Tuli 2023 Google Certificate in Data Analysis with R Programming
+
+• Shawna Tuli 2023 Google Certificate in Data Analytics Capstone Project: Complete a Case Study
 _________________________________________________________________________________________________________________________________________________________
 "Everyone talks about "culture add" but it is often the first thing that gets sacrificed when looking for the right hire. Shawna is a rare "culture add" that has brought a deeply analytical mind and love for data to Avanade but also a sense of community, inclusion, and support for the kind of workplace we've strived to build. I would recommend you consider her for any of your teams you're not just trying to make better but make great." - Harry Holstrom (Avanade West Region Territory Lead for Communications, Media and Technology)
 
