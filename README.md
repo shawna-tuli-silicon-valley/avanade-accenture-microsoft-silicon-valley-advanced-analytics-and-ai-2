@@ -41,7 +41,7 @@ My clients are Google, Avanade, and The NPD Group.
 
 ∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Power Platform Fundamentals
 
-• Shawna Tuli 2023 Google Certificate in Foundations: Data, Data, Everywhere
+• [Shawna Tuli 2023 Google Certificate in Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/K5Z79GCX3J5W)
 
 • Shawna Tuli 2023 Google Certificate in Ask Questions to Make Data-Driven Decisions
 
