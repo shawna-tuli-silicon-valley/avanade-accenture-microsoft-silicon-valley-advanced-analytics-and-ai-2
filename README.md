@@ -45,17 +45,17 @@ My clients are Google, Avanade, and The NPD Group.
 
 • Shawna Tuli 2023 Google Certificate in Ask Questions to Make Data-Driven Decisions
 
-• Shawna Tuli 2023 Google Certificate in Prepare Data For Exploration
+• [Shawna Tuli 2023 Google Certificate in Prepare Data For Exploration](https://www.coursera.org/account/accomplishments/certificate/77U39SFK3N9H)
 
-• Shawna Tuli 2023 Google Certificate in Process Data from Dirty to Clean
+• [Shawna Tuli 2023 Google Certificate in Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/A5JYMBCDH9UP)
 
-• Shawna Tuli 2023 Google Certificate in Analyze Data to Answer Questions
+• [Shawna Tuli 2023 Google Certificate in Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/FZKC4BWFV2C9)
 
 • Shawna Tuli 2023 Google Certificate in Share Data Through the Art of Visualization
 
-• Shawna Tuli 2023 Google Certificate in Data Analysis with R Programming
+• [Shawna Tuli 2023 Google Certificate in Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/RHXRBDE4EXUG)
 
-• Shawna Tuli 2023 Google Certificate in Data Analytics Capstone Project: Complete a Case Study
+• [Shawna Tuli 2023 Google Certificate in Data Analytics Capstone Project: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/RQ7KCCVXZ7MJ)
 _________________________________________________________________________________________________________________________________________________________
 "Shawna is an excellent mentor and communicator. She is a highly skilled and experienced professional with a deep understanding in data analytics and consulting. She is also a gifted communicator.
 
