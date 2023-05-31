@@ -57,6 +57,14 @@ My clients are Google, Avanade, and The NPD Group.
 
 • Shawna Tuli 2023 Google Certificate in Data Analytics Capstone Project: Complete a Case Study
 _________________________________________________________________________________________________________________________________________________________
+"Shawna is an excellent mentor and communicator. She is a highly skilled and experienced professional with a deep understanding in data analytics and consulting. She is also a gifted communicator.
+
+On our school project, Shawna helped us to choose the best model for our project. She also helped us to manage our time effectively and to communicate effectively with each other. As a result of her guidance, we were able to complete our project on time and to a high standard.
+
+In addition to her technical skills, Shawna is also a great mentor. She is patient, supportive, and always willing to help others. She is also a great communicator and is able to explain complex concepts in a clear and concise way.
+
+I have no doubt that Shawna would be an asset to any team. She is a highly skilled and experienced professional with a strong work ethic and a positive attitude." - Nima Hendi (University of California, Irvine Data Science Graduate)
+
 "Shawna is a great manager for my capstone project California Energy Prediction. She effectively introduced the scope of our work for the entire project and provided us with a comprehensive timeline as a reference. Throughout the project, our communication with Shawna was excellent. She responded promptly to our requests and efficiently coordinated meeting times. Her high level of responsibility and commitment to the project truly make her a valuable manager. Without a doubt, I would eagerly choose to work with her again in the future." - Frank Dong (University of California, Irvine Math & Data Science Graduate)
 
 "Everyone talks about "culture add" but it is often the first thing that gets sacrificed when looking for the right hire. Shawna is a rare "culture add" that has brought a deeply analytical mind and love for data to Avanade but also a sense of community, inclusion, and support for the kind of workplace we've strived to build. I would recommend you consider her for any of your teams you're not just trying to make better but make great." - Harry Holstrom (Avanade West Region Territory Lead for Communications, Media and Technology)
