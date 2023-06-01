@@ -51,7 +51,7 @@ My clients are Google, Avanade, and The NPD Group.
 
 • [Shawna Tuli 2023 Google Certificate in Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/FZKC4BWFV2C9)
 
-• Shawna Tuli 2023 Google Certificate in Share Data Through the Art of Visualization
+• [Shawna Tuli 2023 Google Certificate in Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/KLW3PRUUYXAF)
 
 • [Shawna Tuli 2023 Google Certificate in Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/RHXRBDE4EXUG)
 
