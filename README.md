@@ -71,6 +71,12 @@ My clients are Google, Avanade, and The NPD Group.
 
 • Shawna Tuli 2023 Google Certificate in Google Advanced Data Analytics Capstone
 
+• Shawna Tuli 2023 Google Certificate in Foundations of Business Intelligence
+
+• Shawna Tuli 2023 Google Certificate in The Path to Insights: Data Models and Pipelines
+
+• Shawna Tuli 2023 Google Certificate in Decision, Decisions: Dashboards and Reports
+
 _________________________________________________________________________________________________________________________________________________________
 "Shawna is an excellent mentor and communicator. She is a highly skilled and experienced professional with a deep understanding in data analytics and consulting. She is also a gifted communicator.
 
