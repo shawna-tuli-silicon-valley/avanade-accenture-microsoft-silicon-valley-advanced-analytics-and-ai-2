@@ -35,12 +35,6 @@ My clients are Google, Avanade, and The NPD Group.
 
 • [Shawna Tuli 2022 Wharton Certificate in Introduction to Marketing](https://coursera.org/share/3ec7fa70ecda90ca7a86f6e7e1e50a67)
 
-∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft 365 Certified: Fundamentals
-
-∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Azure Fundamentals
-
-∙ Shawna Tuli 2023 Microsoft Certificate in Microsoft Certified: Power Platform Fundamentals
-
 • [Shawna Tuli 2023 Google Certificate in Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/K5Z79GCX3J5W)
 
 • Shawna Tuli 2023 Google Certificate in Ask Questions to Make Data-Driven Decisions
