@@ -51,7 +51,7 @@ My clients are Google, Avanade, and The NPD Group.
 
 • [Shawna Tuli 2023 Google Certificate in Data Analytics Capstone Project: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/RQ7KCCVXZ7MJ)
 
-• Shawna Tuli 2023 Google Certificate in Foundations of Data Science
+• [Shawna Tuli 2023 Google Certificate in Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/NUJ2SC7YUS8H)
 
 • Shawna Tuli 2023 Google Certificate in Get Started with Python
 
