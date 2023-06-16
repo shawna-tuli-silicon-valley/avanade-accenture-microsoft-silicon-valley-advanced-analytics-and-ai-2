@@ -35,21 +35,21 @@ My clients are Google, Avanade, and The NPD Group.
 
 • [Shawna Tuli 2022 Wharton Certificate in Introduction to Marketing](https://coursera.org/share/3ec7fa70ecda90ca7a86f6e7e1e50a67)
 
-• [Shawna Tuli 2023 Google Certificate in Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/K5Z79GCX3J5W)
+• [Shawna Tuli 2023 Google Certificate in Foundations: Data, Data, Everywhere](https://coursera.org/share/e74e7c24f3f67f216f4451622de30e2c)
 
-• [Shawna Tuli 2023 Google Certificate in Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/EWKQWE6E8DEE) 
+• [Shawna Tuli 2023 Google Certificate in Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/73b7d54273ec936f4d3762c915e29bcf) 
 
-• [Shawna Tuli 2023 Google Certificate in Prepare Data For Exploration](https://www.coursera.org/account/accomplishments/certificate/77U39SFK3N9H)
+• [Shawna Tuli 2023 Google Certificate in Prepare Data For Exploration](https://coursera.org/share/2f978d66286fa209b3c9d40bd56ab63d)
 
-• [Shawna Tuli 2023 Google Certificate in Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/A5JYMBCDH9UP)
+• [Shawna Tuli 2023 Google Certificate in Process Data from Dirty to Clean](https://coursera.org/share/1e60d766832fff9feed43f4e7bba985c)
 
-• [Shawna Tuli 2023 Google Certificate in Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/FZKC4BWFV2C9)
+• [Shawna Tuli 2023 Google Certificate in Analyze Data to Answer Questions](https://coursera.org/share/0ca12c5bfda82a1c8808fe7fd1ba162b)
 
-• [Shawna Tuli 2023 Google Certificate in Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/KLW3PRUUYXAF)
+• [Shawna Tuli 2023 Google Certificate in Share Data Through the Art of Visualization](https://coursera.org/share/85ef5115183aee8f1db3ca26bbe966b1)
 
-• [Shawna Tuli 2023 Google Certificate in Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/RHXRBDE4EXUG)
+• [Shawna Tuli 2023 Google Certificate in Data Analysis with R Programming](https://coursera.org/share/cd8b9bf42981f4e011f194e2a20063d9)
 
-• [Shawna Tuli 2023 Google Certificate in Data Analytics Capstone Project: Complete a Case Study](https://www.coursera.org/account/accomplishments/certificate/RQ7KCCVXZ7MJ)
+• [Shawna Tuli 2023 Google Certificate in Data Analytics Capstone Project: Complete a Case Study](https://coursera.org/share/b376149df89443fd1dd162903d9a8bc1)
 
 • [Shawna Tuli 2023 Google Certificate in Foundations of Data Science](https://www.coursera.org/account/accomplishments/certificate/NUJ2SC7YUS8H)
 
