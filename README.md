@@ -55,7 +55,7 @@ My clients are Google, Avanade, and The NPD Group.
 
 • Shawna Tuli 2023 Google Certificate in Get Started with Python
 
-• Shawna Tuli 2023 Google Certificate in Go Beyond the Numbers: Translate Data into Insights
+• [Shawna Tuli 2023 Google Certificate in Go Beyond the Numbers: Translate Data into Insights](https://www.coursera.org/account/accomplishments/certificate/RNUE2P6QG7VC)
 
 • Shawna Tuli 2023 Google Certificate in The Power of Statistics
 
