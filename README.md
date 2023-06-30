@@ -98,7 +98,7 @@ If I could work with Shawna in every single one of my engagements, I would (and 
 
 "I have the pleasure of working with Shawna in the UCI x Accenture Engagement and Recruiting team and love the energy that she brings to the team! She is a capable leader and is dedicated to her role. Shawna is patient and thoughtful and does a fantastic job driving a project from beginning to end with great success. I would highly recommend working with Shawna if you ever have the chance." - Ella Liang (Accenture San Francisco Management Consulting Analyst) 
 
-“Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Sunnyvale Technical Program Manager)
+“Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Sunnyvale Technical Program Manager, Google Cloud)
 
 <img width="694" alt="219781413-c23f751c-f885-4954-80bd-120fed922953" src="https://user-images.githubusercontent.com/19508013/221004450-c544c2ba-51ce-470a-992b-3c92e18ce49b.png">
 
