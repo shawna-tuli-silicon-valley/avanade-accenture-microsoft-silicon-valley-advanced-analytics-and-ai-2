@@ -69,7 +69,7 @@ My clients are Google, Avanade, and The NPD Group.
 
 • Shawna Tuli 2023 Google Certificate in The Path to Insights: Data Models and Pipelines
 
-• Shawna Tuli 2023 Google Certificate in Decision, Decisions: Dashboards and Reports
+• [Shawna Tuli 2023 Google Certificate in Decision, Decisions: Dashboards and Reports](https://www.coursera.org/account/accomplishments/verify/AU8QPWV5AQZK)
 
 _________________________________________________________________________________________________________________________________________________________
 "I got to work with Shawna on my most recent code migration project and her professionalism and commitment to this project were very valuable. I would recommend Shawna for any of your IT projects." - Bridget Menzer, PMP, SA (The NPD Group New York Senior Project Manager)
