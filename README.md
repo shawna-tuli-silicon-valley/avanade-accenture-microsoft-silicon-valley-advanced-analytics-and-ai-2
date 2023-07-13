@@ -72,6 +72,9 @@ My clients are Google, Avanade, and The NPD Group.
 • [Shawna Tuli 2023 Google Certificate in Decision, Decisions: Dashboards and Reports](https://www.coursera.org/account/accomplishments/verify/AU8QPWV5AQZK)
 
 _________________________________________________________________________________________________________________________________________________________
+
+"I worked with Shawna as a mentor at UCI Data Science Capstone project on Predicting Risk of Type II Diabetes in California with AI. I was impressed with her exceptional communication skill and her eagerness to assist students. She was dedicated to answering students' questions and provided insightful responses. Also, her mentorship and coordination skills have undoubtedly contributed to the success of the team, which resulted in the project being published. In addition to her professional expertise, she consistently exhibits a friendly, patient, and unwaveringly positive demeanor. I was honored to have this great opportunity to collaborate with Shawna." - Mei-Chi Chen (Accenture San Francisco Software Engineer)
+
 "I got to work with Shawna on my most recent code migration project and her professionalism and commitment to this project were very valuable. I would recommend Shawna for any of your IT projects." - Bridget Menzer, PMP, SA (The NPD Group New York Senior Project Manager)
 
 "Shawna is an excellent mentor and communicator. She is a highly skilled and experienced professional with a deep understanding in data analytics and consulting. She is also a gifted communicator.
