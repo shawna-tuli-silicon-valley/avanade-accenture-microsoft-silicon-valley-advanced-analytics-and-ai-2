@@ -15,7 +15,7 @@ My clients are Google, Avanade, and The NPD Group.
 
 ∙ [Shawna Tuli 2021 Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
-∙ [Shawna Tuli 2020 University of California, Irvine Bachelor of Science in Data Science](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
+∙ [Shawna Tuli 2020 University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science in Data Science](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
 
 ∙ Shawna Tuli 2022 Google Certificate in Google Project Management: Professional Certificate
 
