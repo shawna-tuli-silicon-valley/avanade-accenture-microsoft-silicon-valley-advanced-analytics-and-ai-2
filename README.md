@@ -71,9 +71,9 @@ My clients are Google, Avanade, and The NPD Group.
 • [Shawna Tuli 2023 Google Certificate in Decision, Decisions: Dashboards and Reports](https://www.coursera.org/account/accomplishments/verify/AU8QPWV5AQZK)
 
 _________________________________________________________________________________________________________________________________________________________
-"Shawna
+"Shawna,
 
-As you know, I am the Office Managing Director of Southern California and have worked with you on the Data Science / Applied Intelligence Capstone Program at University of CA at Irvine. You played a major role win working with the students, documenting the work and leading most of the effort. This program takes a lot of coordination and planning, and you did a great job. I appreciate that you are very active in supporting the Avanade and Accenture brand on LinkedIn and that you do it in a very professional and effective way." - Marty Hodgett (Accenture Southern California Managing Director) 
+As you know, I am the Office Managing Director of Southern California and have worked with you on the Data Science / Applied Intelligence Capstone Program at University of California, Irvine. You played a major role win working with the students, documenting the work and leading most of the effort. This program takes a lot of coordination and planning, and you did a great job. I appreciate that you are very active in supporting the Avanade and Accenture brand on LinkedIn and that you do it in a very professional and effective way." - Marty Hodgett (Accenture Southern California Managing Director) 
 
 "I worked with Shawna as a mentor at UCI Data Science Capstone project on Predicting Risk of Type II Diabetes in California with AI. I was impressed with her exceptional communication skill and her eagerness to assist students. She was dedicated to answering students' questions and provided insightful responses. Also, her mentorship and coordination skills have undoubtedly contributed to the success of the team, which resulted in the project being published. In addition to her professional expertise, she consistently exhibits a friendly, patient, and unwaveringly positive demeanor. I was honored to have this great opportunity to collaborate with Shawna." - Mei-Chi Chen (Accenture San Francisco Software Engineer)
 
