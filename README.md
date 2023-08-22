@@ -71,7 +71,15 @@ My clients are Google, Avanade, The NPD Group, and Meta.
 • [Shawna Tuli 2023 Google Certificate in Decision, Decisions: Dashboards and Reports](https://www.coursera.org/account/accomplishments/verify/AU8QPWV5AQZK)
 
 _________________________________________________________________________________________________________________________________________________________
-"Shawna brings great enthusiasm, problem solving and creativity. These capabilities combined with her drive to add value make Shawna a high performer in complex situations." - Manish Dasaur (Accenture Chief Data & Analytics Officer, Communications & Media North America)
+"I recommend Shawna for her exceptional leadership and dedication during the UC Irvine Capstone course in Spring 2023.
+
+Shawna's unwavering commitment to sourcing a comprehensive dataset for predicting energy demand in California underscores her diligence. This effort laid the foundation for an AI-driven product vision with a community welfare focus. Her data science expertise was pivotal in verifying student progress on a sprint basis and providing timely feedback.
+
+Notably, Shawna's adept student management skills shine. She skillfully combines challenge and support, even offering assistance on weekends. Her structured schedule and regular touchpoints guided students to success, embodying invaluable mentorship and support.
+
+Shawna's impact extended beyond the initial program goals. She played a crucial role in elevating the program by collaborating with Accenture team members to develop a draft version of a menu script for journal submission. Her proactive contributions and collaborative approach exemplify her commitment to excellence." - Vishrut Chokshi (Accenture Los Angeles Senior Manager, Data Science)
+
+"Shawna brings great enthusiasm, problem solving and creativity. These capabilities combined with her drive to add value make Shawna a high performer in complex situations." - Manish Dasaur (Accenture North America Chief Data & Analytics Officer, Communications & Media)
 
 "Shawna,
 
