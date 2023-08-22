@@ -77,7 +77,7 @@ Shawna's unwavering commitment to sourcing a comprehensive dataset for predictin
 
 Notably, Shawna's adept student management skills shine. She skillfully combines challenge and support, even offering assistance on weekends. Her structured schedule and regular touchpoints guided students to success, embodying invaluable mentorship and support.
 
-Shawna's impact extended beyond the initial program goals. She played a crucial role in elevating the program by collaborating with Accenture team members to develop a draft version of a manuscript for journal submission. Her proactive contributions and collaborative approach exemplify her commitment to excellence." - Vishrut Chokshi (Accenture Los Angeles Senior Manager, Data Science)
+Shawna's impact extended beyond the initial program goals. She played a crucial role in elevating the program by collaborating with Accenture team members to develop a draft version of a manuscript for journal submission. Her proactive contributions and collaborative approach exemplify her commitment to excellence." - Vishrut Chokshi (Accenture Los Angeles Senior Manager, Data Science Enablement & Delivery Lead)
 
 "Shawna brings great enthusiasm, problem solving and creativity. These capabilities combined with her drive to add value make Shawna a high performer in complex situations." - Manish Dasaur (Accenture North America Chief Data & Analytics Officer, Communications & Media)
 
